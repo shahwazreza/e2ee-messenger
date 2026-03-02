@@ -108,4 +108,3 @@ Type messages in either terminal.
 - Group messaging
 - Secure session management
 
----
